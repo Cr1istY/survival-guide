@@ -17,9 +17,15 @@ hero:
 features:
   - title: 交通
     details: 交通指南
+    link: /travel
   - title: 饮食
     details: 饮食指南
+    link: /food
   - title: 住宿
     details: 住宿指南
+    link: /stay
+  - title: 娱乐
+    details: 娱乐指南
+    link: /fun
 ---
 
